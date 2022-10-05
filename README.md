@@ -1,1 +1,36 @@
 # Search-Tree
+This is a search tree implementation that I made for my Object-Oriented Programming II class. The professor provided outline code and I would implement the following functions according to his specifications:
+
+- EmptyTree.java
+  - getInstance()
+  - search()
+  - insert()
+  - delete()
+  - max()
+  - min()
+  - size()
+  - addKeysToCollection()
+  - subTree()
+- NonEmptyTree.java
+  - NonEmptyTree()
+  - search()
+  - insert()
+  - delete()
+  - max()
+  - min()
+  - size()
+  - addKeysToCollection()
+  - subTree()
+- SearchTreeMap.java
+  - get()
+  - put()
+  - size()
+  - remove()
+  - keySet()
+  - getMin()
+  - getMax()
+  - toString()
+  - keyList()
+  - subMap()
+- Tree.java
+  - 
