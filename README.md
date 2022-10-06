@@ -32,5 +32,3 @@ This is a search tree implementation that I made for my Object-Oriented Programm
   - toString()
   - keyList()
   - subMap()
-- Tree.java
-  - 
